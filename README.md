@@ -1,4 +1,4 @@
-### 🌍 Hello World！
+### 🌍 Hello World!
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=icjs-cc&show_icons=true&icon_color=79FE96&text_color=718096&bg_color=0D1116&hide_title=true" />
 
