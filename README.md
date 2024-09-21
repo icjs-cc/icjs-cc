@@ -6,3 +6,9 @@ Here are some opensource projects，maybe it will help you :-)
 * [ibaleine-weapp](https://github.com/icjs-cc/ibaleine-weapp)   微信原生商城小程序
 * [itriton-captcha](https://github.com/icjs-cc/itriton-captcha) 生成滑动验证码拼图图片和背景图片
 * [itriton-uniapp](https://github.com/icjs-cc/itriton-uniapp)   基于uni-app的组件库
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
