@@ -20,7 +20,7 @@
 <img alt="GitHub" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="GitHub">
 <img alt="Node.js" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="Node.js">
 
-# 陈剑术
+# 代码不会剑术
 
 微信小程序、uni-app 组件，以及部署、图标和检索一类的开发工具。
 
