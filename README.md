@@ -50,7 +50,7 @@ uni-app 与微信小程序的项目基础架构。
 按配置把项目部署到服务器，支持密钥登录和压缩传输。
 
 **[itriton-appicons](https://github.com/icjs-cc/itriton-appicons)**  
-生成 ico、icns，以及 Flutter、Tauri 需要的应用图标。[在线使用](https://appicons.netlify.app)
+生成 ico、icns，以及 Flutter、Tauri 需要的应用图标。[在线使用](https://iappicon.icjs.ink/)
 
 **[itriton-insight](https://github.com/icjs-cc/itriton-insight)**  
 用自然语言检索网页，整理成结构化 JSON。
