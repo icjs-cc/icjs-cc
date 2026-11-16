@@ -1,5 +1,25 @@
 <div align="center">
 
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Go/Golang.png" alt="Go" width="180"/>
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/React/React.png" alt="React" width="300"/>
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png" alt="Rust" width="180"/>
+
+<br/>
+
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Node.js/Node.js.png" alt="Node.js" width="280"/>
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vue/Vue.png" alt="Vue" width="280"/>
+
+<br/>
+
+<img alt="HTML" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="HTML">
+<img alt="CSS" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="CSS">
+<img alt="VS Code" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="VS Code">
+<img alt="Python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="Python">
+<img alt="JavaScript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="JavaScript">
+<img alt="Sublime Text" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="Sublime Text">
+<img alt="GitHub" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="GitHub">
+<img alt="Node.js" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="Node.js">
+
 # 陈剑术
 
 微信小程序、uni-app 组件，以及部署、图标和检索一类的开发工具。
